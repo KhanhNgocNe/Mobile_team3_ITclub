@@ -11,7 +11,7 @@ import com.example.androi_tutorial.databinding.ActivityMainBinding;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {  
 
     ActivityMainBinding binding;
 
